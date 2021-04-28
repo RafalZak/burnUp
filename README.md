@@ -1,2 +1,2 @@
-# burnUp
-How to forecast your deliveries based on key data extracted from Jira
+# burn-up charts for the masses
+How to forecast your deliveries using key data extracted from Jira
